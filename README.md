@@ -1,1 +1,1 @@
-# node-docker-ithaca
+### Tezos Node standalone
